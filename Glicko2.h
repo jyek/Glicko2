@@ -1,6 +1,7 @@
 /*******************************************************************************
  GLICKO 2
  Implements the Glicko 2 ranking system
+ By Justin Yek (modified from work by Heungsub Lee)
  *******************************************************************************/
 
 @class Glicko2;
