@@ -1,4 +1,4 @@
 Glicko2
 =======
 
-Glicko2 Objective-C Implementation
+Objective-C implementation of the Glicko2 algorithm (http://www.glicko.net/glicko.html).
